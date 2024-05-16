@@ -29,7 +29,7 @@ As a full stack developer, I'm proficient in front-end technologies such as <b> 
 
 I have a strong background in Computer Science and Mathematics and have been involved in various projects throughout my career, including DApps, smart contract development, and scalable web applications. I have expertise in AWS, Google Cloud Platform, and GitHub Actions for CI/CD pipelines.
 
-In addition, I took internation MBA course in Sao Paulo University between 2014~2016 while working at Biosom company(www.Biosom.com.br) as an intern. I am the CEO of developing team now.
+In addition, I took internation MBA course in Sao Paulo University between 2014~2016 while working at Biosom company(www.Biosom.com.br) as an intern.
 
 When I'm not coding, I enjoy reading and writing about blockchain technology and its potential applications. I also enjoy hiking and camping with my family.
 
